@@ -1,1 +1,1 @@
-password = "kjhbsejnkec32r89y12r8y"
+key: AIzaaA1bB2cC3A1bB2cC3A1bB2cC3A1bB2cCdD4
